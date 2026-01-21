@@ -18,7 +18,9 @@ A Python-based breathing timer inspired by traditional pranayama practice.
 
 -Terminal-based execution
 
-
+## motivation 
+Built for personal practice using traditional timing principles.
+Automates structured breathing for meditation and stress relief
 
 \## Tech Stack 
 
